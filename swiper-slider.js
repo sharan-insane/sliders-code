@@ -15,3 +15,5 @@ const swiper = new Swiper('.ilp2-swiper-monster-trades', {
             prevEl: '.swiper-button-prev',
         },
     });
+
+console.log("code ffrom github")
